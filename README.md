@@ -1,6 +1,5 @@
 # KQC7035-RESEARCH-PROJECT
-Deep Learning-based Reflection Removal for Enhanced Image Quality  [PDF](blob:https://github.com/KongPingfanCHN/KQC7035-RESEARCH-PROJECT/)
-  
+Deep Learning-based Reflection Removal for Enhanced Image Quality [PDF][Download Report]  
 基于深度学习的反射消除以提高图像质量
   
 # Abstract  
@@ -30,3 +29,4 @@ reflection removal, highlighting strengths and areas for improvement.
 反射强度方面仍然存在挑战。未来的工作将侧重于优化模型以平衡这些权衡，可能通过动态调整 GHE 参数，同时减少
 伪影并改善实时处理。本报告推进了基于深度学习的图像反射消除，突出了优势和需要改进的领域。
   
+[Download Report](https://github.com/KongPingfanCHN/KQC7035-RESEARCH-PROJECT/raw/master/%5BReport%5D%20Deep%20Learning-based%20Reflection%20Removal%20for%20Enhanced%20Image%20Quality_Kong_Pingfan.pdf?raw=true)
