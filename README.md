@@ -28,5 +28,7 @@ reflection removal, highlighting strengths and areas for improvement.
 提高了图像亮度、对比度和视觉吸引力。尽管 IBCLN 具有优势，但在处理速度和处理实时应用中的复杂场景或变化的
 反射强度方面仍然存在挑战。未来的工作将侧重于优化模型以平衡这些权衡，可能通过动态调整 GHE 参数，同时减少
 伪影并改善实时处理。本报告推进了基于深度学习的图像反射消除，突出了优势和需要改进的领域。
+
+
   
-[Download Report](https://github.com/KongPingfanCHN/KQC7035-RESEARCH-PROJECT/raw/master/%5BReport%5D%20Deep%20Learning-based%20Reflection%20Removal%20for%20Enhanced%20Image%20Quality_Kong_Pingfan.pdf?raw=true)
+[Download Report]:https://github.com/KongPingfanCHN/KQC7035-RESEARCH-PROJECT/raw/master/%5BReport%5D%20Deep%20Learning-based%20Reflection%20Removal%20for%20Enhanced%20Image%20Quality_Kong_Pingfan.pdf?raw=true "Click to Download 点击下载"
