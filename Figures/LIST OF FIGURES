@@ -1,0 +1,19 @@
+Figure 2.1 Classification of Learning-Based Methods ..................................5
+Figure 3.1 Average loss trend while training SIRR [16] model ........................50
+Figure 3.2 Average loss trend while training CoRRN [26] model .......................50
+Figure 3.3 Average loss trend while training IBCLN [21] model .......................51
+Figure 3.4 Various Metrics vs 𝜶 curve ...............................................53
+Figure 4.1 PSNR comparison of SIRR [16] model on different datasets .................58
+Figure 4.2 SSIM results of SIRR [16] model on different dataset .....................58
+Figure 4.3 PSNR results of CoRRN [26] model on different dataset ....................59
+Figure 4.4 SSIM results of CoRRN [26] model on different datasets ...................59
+Figure 4.5 PSNR results of IBCLN [21] model on different datasets ...................60
+Figure 4.6 SSIM results of IBCLN [21] model on different datasets ...................60
+Figure 4.7 Qualitative comparisons between the 3 methods ............................61
+Figure 4.8 Average AMBE vs 𝜶 curve ..................................................64
+Figure 4.9 Average PSNR Enhanced vs 𝜶 curve .........................................65
+Figure 4.10 Average SSIM Enhanced vs 𝜶 curve ........................................65
+Figure 4.11 Various Metrics vs 𝜶𝜶 curves when 𝜶 ∈ [0, 2] ...........................66
+Figure 4.12 Qualitative comparison when 𝜶 ∈ [0.6, 1.7] .............................67
+Figure 4.13 Average EVM vs 𝜶𝜶 curve when 𝜶 ∈ [0, 12] ...............................69
+Figure 4.14 Qualitative comparison of enhancement on 5 datasets .....................71
